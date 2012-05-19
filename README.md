@@ -4,7 +4,7 @@ Hashtags are weak. Boshtags are strong.
 
 Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), then [boshtags.user.js](https://raw.github.com/tdwright/BoshTags/0e36d3d2c05a4c55384c3b3fe9947ca4273f592f/boshtags.user.js), then bosh.
 
-?bosh ?win ?betterthanhashtags
+&#10042;bosh &#10042;win &#10042;betterthanhashtags
 
 Todo
 ---
