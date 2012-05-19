@@ -9,3 +9,4 @@ Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonk
 Todo
 ---
 * Currently only works in streams. Should add support for single-tweet pages.
+* Greedy regex is stopping subsequent (single space separated) boshtags.
