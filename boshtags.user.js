@@ -2,7 +2,8 @@
 // @name          BoshTags!
 // @namespace     https://github.com/tdwright/BoshTags
 // @description	  Detects boshtags and links them on Twitter
-// @version		  1.0
+// @version		  1.1
+// @updateURL	  https://raw.github.com/tdwright/BoshTags/master/boshtags.user.js
 // @include       https://twitter.com/*
 // @require http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @require https://gist.github.com/raw/2625891/waitForKeyElements.js
