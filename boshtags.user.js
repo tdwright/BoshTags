@@ -11,7 +11,7 @@
 
 function linkBoshtags (jNode) {
 	if (jNode.attr('boshed')=='true') return;
-	var newContent = jNode.html().replace(/(\b)(\u273A(\w+))(\b)/g,"$1<a class='boshtag' href='https://twitter.com/#!/search/$2'>$2</a>$4");
+	var newContent = jNode.html().replace(/(\W)(\u273A(\w+))(?=\W)/g,"$1<a class='boshtag' href='https://twitter.com/#!/search/$2'>$2</a>");
 	jNode.html(newContent);
 	jNode.attr('boshed', 'true');
 }
