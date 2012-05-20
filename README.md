@@ -9,8 +9,8 @@ Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonk
 BoshKeys
 ---
 I've also written an AutoHotKey HotString. This makes it really quick to bosh things.
-1. The simplest way to get it is to [download my executable](http://tdwright.co.uk/boshkeys.exe).
-2. Or, if you have AHK_L installed you can find [the script](https://raw.github.com/tdwright/BoshTags/master/boshkeys.ahk) in this repo. (It has to be [AHK_L](http://l.autohotkey.net/) because the boshmark is a unicode symbol.)
+* The simplest way to get it is to [download my executable](http://tdwright.co.uk/boshkeys.exe).
+* Or, if you have AHK_L installed you can find [the script](https://raw.github.com/tdwright/BoshTags/master/boshkeys.ahk) in this repo. (It has to be [AHK_L](http://l.autohotkey.net/) because the boshmark is a unicode symbol.)
 Once you've got it running, just type !b to insert a boshmark.
 
 Todo
