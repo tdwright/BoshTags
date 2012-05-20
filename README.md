@@ -4,6 +4,8 @@ Hashtags are weak. Boshtags are strong.
 
 Install [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), then [boshtags.user.js](https://raw.github.com/tdwright/BoshTags/master/boshtags.user.js), then bosh.
 
+![A tweet with boshtags](http://tdwright.co.uk/boshtweet.png "A boshtagged tweet")
+
 &#10042;bosh &#10042;win &#10042;betterthanhashtags
 
 BoshKeys
