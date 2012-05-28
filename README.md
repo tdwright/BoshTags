@@ -17,6 +17,7 @@ Once you've got it running, just type !b to insert a boshmark.
 
 Todo
 ---
+* Doesn't work in Chrome. Need a different way to include jQuery.
 * ~~Currently only works in streams. Should add support for single-tweet pages.~~ Done as of v1.3
 * ~~Doesn't pick up boshtags at the beginning or end of a tweet.~~ Done as of v1.2
 * ~~Greedy regex is stopping subsequent (single space separated) boshtags.~~ Done as of v1.1
